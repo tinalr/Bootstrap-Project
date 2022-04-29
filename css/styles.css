@@ -27,6 +27,6 @@ footer {
 
 .row-content {
     padding: 50px 0;
-    border-bottom: 1px ridge;
+    border-bottom: 1px inset rgb(219, 219, 219);
     min-height: 200px;
 }
